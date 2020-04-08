@@ -3,9 +3,12 @@
 
 #include "pch.h"
 #include <iostream>
+#include "SqList.h"
 
 int main()
 {
+    testSqList();
+
     std::cout << "Hello World!\n"; 
 }
 
